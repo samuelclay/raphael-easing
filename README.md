@@ -4,6 +4,8 @@
 
 View a demo of animation easing techniques here: <http://demos.daylife.com/samuel/svg_photo_flipper_prototype.xhtml>
 
+**NOTE:** As of June 2009, this plugin requires a forked version of RaphaelJS. You can download it here: <https://github.com/conesus/raphael/tree>. Hopefully, these forked changes will be merged with the master Raphael JS code.
+
 ## To use:
 
  1.  Include the `raphael.easing.1.3.js` file after your `raphael.js` file.
