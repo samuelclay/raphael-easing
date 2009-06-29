@@ -11,7 +11,7 @@ View a demo of animation easing techniques here: <http://demos.daylife.com/samue
  1.  Include the `raphael.easing.1.3.js` file after your `raphael.js` file.
  2.  Specify the easing technique in the `.animate()` function, like so:
 
-    `Raphael_canvas.animate({'scale': [1.25, 1.25]}, 750, 'easeOutCubic', callback);`
+    `Element.animate({'scale': [1.25, 1.25]}, 750, 'easeOutCubic', callback);`
 
 ### Available easing techniques:
 
