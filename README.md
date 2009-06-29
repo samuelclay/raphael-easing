@@ -1,8 +1,8 @@
 # Raphael animation easing plugin
 
-### Derived from jQuery Easing Plugin (version 1.3): http://gsgd.co.uk/sandbox/jquery/easing/
+##### Derived from jQuery Easing Plugin (version 1.3): <http://gsgd.co.uk/sandbox/jquery/easing/>
 
-View a demo of animation easing techniques here: [http://demos.daylife.com/samuel/svg_photo_flipper_prototype.xhtml]
+View a demo of animation easing techniques here: <http://demos.daylife.com/samuel/svg_photo_flipper_prototype.xhtml>
 
 ## To use:
 
